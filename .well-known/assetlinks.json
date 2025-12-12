@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.viettel.appviettel.dev",
+      "sha256_cert_fingerprints": [
+        "15:1b:dc:45:59:49:1f:80:67:6e:49:2c:e1:57:fd:15:f9:d5:4a:e4:59:00:59:40:ab:97:b4:f5:5d:44:9a:d7"
+      ]
+    }
+  }
+]
